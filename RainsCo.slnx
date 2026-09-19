@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="RainsCoAPI/RainsCoAPI.csproj" Id="8e292d9a-21c6-48af-8eb5-a832984db85e" />
+  <Project Path="RainsCoWebApp/RainsCoWebApp.csproj" Id="259d8cd5-61d4-4645-8aec-eabaa9152c6c" />
+</Solution>
